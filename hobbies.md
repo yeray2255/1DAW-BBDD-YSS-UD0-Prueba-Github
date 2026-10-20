@@ -1,0 +1,4 @@
+* correr
+* comer
+* leer
+* dormir
